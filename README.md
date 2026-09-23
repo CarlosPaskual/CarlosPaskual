@@ -15,3 +15,11 @@ Estudiante de programación construyendo proyectos reales para aprender, en vez 
 
 ## 🔗 Enlaces
 [Instagram](https://www.instagram.com/paskualcarlos/) · [X](https://x.com/CarlosPaskual) · [Bluesky](https://bsky.app/profile/carlospaskual.bsky.social)
+
+## 🐍 Actividad
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CarlosPaskual/CarlosPaskual/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CarlosPaskual/CarlosPaskual/output/snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/CarlosPaskual/CarlosPaskual/output/snake.svg">
+</picture>
